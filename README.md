@@ -1,4 +1,4 @@
-### Hello World, I'm Abraham 🌎👋🏻👨🏻‍💻
+### Hello World, I'm Abraham 👋🏻🌎👨🏻‍💻
 
 <!--
 **idkan/idkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
