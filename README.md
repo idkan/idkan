@@ -1,6 +1,5 @@
 ### Hello World, I'm Abraham 👋🏻🌎👨🏻‍💻
 
-- 📫 How to reach me: abraham.serena@hotmail.com 
 <!--
 **idkan/idkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
