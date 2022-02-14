@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on my Portafolio 💼
 - - 🌱 I’m currently learning Advance JS and ReactJS
+- 📫 How to reach me: [Here](https://www.linkedin.com/in/abraham-serena/)
 
 <!--
 **idkan/idkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
