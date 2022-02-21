@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on my Portafolio 💼
 - 🌱 I’m currently learning Advance JS and ReactJS 🍃
-- 👯 I’m looking to collaborate on JS open source projects
 - 📫 How to reach me: [Here](https://www.linkedin.com/in/abraham-serena/) 📮
 
 <!--
