@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on my Portafolio 💼
 - 🌱 I’m currently learning Advance JS and ReactJS 🍃
-- 📫 How to reach me: [Here](https://www.linkedin.com/in/abraham-serena/) 📮
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abraham_Serena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abraham-serena/)](https://www.linkedin.com/in/abraham-serena/)
 [![Instagram Badge](https://img.shields.io/badge/-abraham-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/abraham_salk/)](https://www.instagram.com/abraham_salk/)
