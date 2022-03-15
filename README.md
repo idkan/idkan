@@ -18,7 +18,7 @@
 
 ### 📍 Social Links 
 [![Linkedin Badge](https://img.shields.io/badge/-Abraham_Serena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abraham-serena/)](https://www.linkedin.com/in/abraham-serena/)
-[![Instagram Badge](https://img.shields.io/badge/-abraham-rainbow?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/abraham_salk/)](https://www.instagram.com/abraham_salk/)
+[![Instagram Badge](https://img.shields.io/badge/-abraham-orange?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/abraham_salk/)](https://www.instagram.com/abraham_salk/)
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/idkantv?style=social)](https://twitter.com/idkantv)
 
 
