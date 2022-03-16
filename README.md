@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Hello World!, I'm Abraham 👨🏻‍💻
 
-- 🔭 I’m currently working on my Portafolio 💼
+- 🔭 I’m currently working on my Portafolio and Blog 💼✍🏻
 - 🌱 I’m currently learning Advance JS and ReactJS 🍃
 
 ### 🧰 Languages and Tools:
