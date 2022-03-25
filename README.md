@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on my personal/tech Blog 🚧✍🏻
 - 🌱 I’m currently mastering JS 🍃 ⚡ 
-- 🌱 I’m currently learning Java ☕️
+- ☘️ I’m currently learning Java ☕️
 
 ### 🧰 Languages and Tools:
 
