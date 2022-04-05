@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> , I'm [Abraham](https://idkan.dev/)👨🏻‍💻👀
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World! I'm [Abraham](https://idkan.dev/)👨🏻‍💻👀
 
 - ⛳️ I’m currently working on my personal/tech Blog 🚧
 - 🌱 I’m currently mastering JS ⚡ 
@@ -20,7 +20,8 @@
 ### 📍 Social Links
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/idkantv?style=social)](https://twitter.com/idkantv)
 [![Linkedin Badge](https://img.shields.io/badge/-Abraham_Serena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abraham-serena/)](https://www.linkedin.com/in/abraham-serena/)
-<!-- [![Instagram Badge](https://img.shields.io/badge/-Abraham-orange?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/abraham_salk/)](https://www.instagram.com/abraham_salk/) -->
+<!-- [![Instagram Badge](https://img.shields.io/badge/-Abraham-orange?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/abraham_salk/)](https://www.instagram.com/abraham_salk/) 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
 <br />
 
