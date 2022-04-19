@@ -15,7 +15,7 @@
 <br />
 
 ### 📍 Social Links
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/idkantv?style=social)](https://twitter.com/idkantv)
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/idkandev?style=social)](https://twitter.com/idkandev)
 [![Linkedin Badge](https://img.shields.io/badge/-Abraham_Serena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abraham-serena/)](https://www.linkedin.com/in/abraham-serena/)
 <br />
 
