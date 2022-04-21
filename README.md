@@ -2,6 +2,7 @@
 
 - ⛳️ I’m currently working on my personal/tech Blog 🚧
 - 🌱 I’m currently mastering JS and Java ⚡️ ☕️ 
+- 📗 Pronouns: He/Him 🤵🏻
 
 ### 🧰 Languages and Tools:
 
