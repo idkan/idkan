@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World! I'm [Abraham](https://idkan.dev/)👨🏻‍💻👀
 
-- ⛳️ I’m currently working on my personal/tech Blog 🚧
+- ⛳️ I’m currently working on Tech Blog 🚧
 - 🌱 I’m currently mastering JS and Java ⚡️ ☕️ 
 - 📗 Pronouns: He/Him 🤵🏻
 
