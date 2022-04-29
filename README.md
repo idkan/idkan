@@ -1,7 +1,8 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World! I'm [Abraham](https://idkan.dev/)👨🏻‍💻👀
 
 - ⛳️ I’m currently working on Portfolio/Blog 🚧
-- 🌱 I’m currently mastering JS and Java ⚡️ ☕️ 
+- 🌱 I’m currently mastering JS and Java ⚡️ ☕️
+- 💹 Ask me about investment investments / crypto 📈
 - 📗 Pronouns: He/Him 🤵🏻
 
 ### 🧰 Languages and Tools:
