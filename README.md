@@ -2,7 +2,6 @@
 
 - ⛳️ I’m currently working on Portfolio/Blog 🚧
 - 🌱 I’m currently mastering JS and Java ⚡️ ☕️
-- 💹 Ask me about investments / crypto 📈
 - 📗 Pronouns: He/Him 🤵🏻
 
 ### 🧰 Languages and Tools:
