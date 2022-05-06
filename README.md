@@ -16,6 +16,7 @@
 <img align="left" alt="Java" width="26px" src="https://user-images.githubusercontent.com/30185415/167071221-3ce0ad54-a03e-464a-8127-5d181bc38e2e.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Jira" width="26px" src="https://user-images.githubusercontent.com/30185415/167071605-118e9e2a-233a-4518-892a-092f95e96c27.png" />
 
 <br />
 
