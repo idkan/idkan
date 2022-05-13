@@ -20,14 +20,11 @@
 
 <br />
 
-### 👀 Checkout my webpage
-[idkan.dev](https://idkan.dev/)👨🏻‍💻
-
-
 ### 📍 Social Links
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/idkandev?style=social)](https://twitter.com/idkandev)
 [![Linkedin Badge](https://img.shields.io/badge/-Abraham_Serena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abraham-serena/)](https://www.linkedin.com/in/abraham-serena/)
 <br />
+Check out my webpage [idkan.dev](https://idkan.dev/)👨🏻‍💻
 
 
 <!-- **idkan/idkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
