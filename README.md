@@ -1,8 +1,18 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello World! I'm [Abraham](https://idkan.dev/)👨🏻‍💻👀
+<p align="center" width="300">
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/30185415/169720299-4a168dea-838f-4c55-bbd6-ae61868e7788.png" />
+   <h3 align="center">
+       <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" />
+        Hello World! I'm Abraham👨🏻‍💻👀
+    </h3>
+</p>
 
+<p align="center">
 - ⛳️ I’m currently working on my Portfolio/Blog 🚧
 - 🌱 I’m currently mastering JS and Java ⚡️ ☕️
 - 📗 Pronouns: He/Him 🤵🏻
+</p>
+
+##
 
 ### 🧰 Languages and Tools:
 
