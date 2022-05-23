@@ -1,0 +1,37 @@
+{
+  "name": "idkandev",
+  "version": "1.0.0",
+  "description": "idkandev README Github profile updater",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "update-readme": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idkan/idkan.git"
+  },
+  "keywords": [
+    "readme",
+    "github profile",
+    "github readme"
+  ],
+  "author": "Abraham Serena <abraham.serena.lk@gmail.com> (https://idkan.dev)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idkan/idkan/issues"
+  },
+  "homepage": "https://github.com/idkan/idkan#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "node-fetch": "2.6.1",
+    "rss-parser": "^3.12.0"
+  },
+  "devDependencies": {
+    "standard": "16.0.4"
+  },
+  "eslintConfig": {
+    "extends": "./node_modules/standard/eslintrc.json"
+  }
+}
