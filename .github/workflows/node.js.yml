@@ -23,3 +23,5 @@ jobs:
         node-version: '16'
     - run: npm install
     - run: npm run update-readme
+      env:
+        RAPIDAPI_API_KEY: ${{ secrets.RAPIDAPI_API_KEY }}
