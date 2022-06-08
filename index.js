@@ -47,7 +47,7 @@ const getLatestInstagramPhotos = async () => {
     contentSnippet
   }) => `<li><a href="${link}"><b>${title}</b></a><br><i>${contentSnippet}</i></li>`).join('\n\t')
 
-  const latestInstagramPhotos = instagramPosts.slice(0, MAX_NUMBER_OF.PHOTOS).map(({
+  const latestInstagramPhotos = instagramPosts?.slice(0, MAX_NUMBER_OF.PHOTOS).map(({
     node: {
       display_url: url,
       shortcode
