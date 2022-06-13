@@ -16,14 +16,15 @@
 
 ### 📸 My Latest photos on [Instagram](https://instagram.com/idkan.dev)
 <p>
-  <a href="https://instagram.com/p/B3XlbGYHc2f"><img src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/70121810_380270596213715_7037125240200759898_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=QKtIUfaTzc8AX_1pMRT&edm=APU89FABAAAA&ccb=7-5&oh=00_AT8Jr327oSgs64ENRtj8alAFy3YjQC0BYXJ4VApL6h3Bqg&oe=62AC25FE&_nc_sid=86f79a" alt="B3XlbGYHc2f" width="200" /></a>
-	<a href="https://instagram.com/p/BxaXxWdHVFZ"><img src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/58453858_1989745561131910_7682376490113199718_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=tC4GZXWSAKYAX8AoKeJ&edm=APU89FABAAAA&ccb=7-5&oh=00_AT95rRWyyEnZLWe-2ekPaEAzYABv8bHxxRyuYGVHARxWkg&oe=62AD9D9B&_nc_sid=86f79a" alt="BxaXxWdHVFZ" width="200" /></a>
-	<a href="https://instagram.com/p/BxQNQsNBdNY"><img src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/58410239_352417562075451_8096978710176588544_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=NGFOzgN9mu4AX9Dt1QN&edm=APU89FABAAAA&ccb=7-5&oh=00_AT86T6NCF27XxcUyp6NKh47zjgTbhz-J2uRHWiTwmjzgyg&oe=62ACB2A5&_nc_sid=86f79a" alt="BxQNQsNBdNY" width="200" /></a>
+  <a href="https://instagram.com/p/B3XlbGYHc2f"><img src="https://instagram.fiev16-1.fna.fbcdn.net/v/t51.2885-15/70121810_380270596213715_7037125240200759898_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fiev16-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=QKtIUfaTzc8AX9dzfec&edm=APU89FABAAAA&ccb=7-5&oh=00_AT8_47VnCOgV391HEJYSitpRt_R-BLYhJapn6_J50XA88w&oe=62AE203E&_nc_sid=86f79a" alt="B3XlbGYHc2f" width="200" /></a>
+	<a href="https://instagram.com/p/BxaXxWdHVFZ"><img src="https://instagram.fiev16-1.fna.fbcdn.net/v/t51.2885-15/58453858_1989745561131910_7682376490113199718_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fiev16-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=FCV25B0DlJ4AX_I3om3&edm=APU89FABAAAA&ccb=7-5&oh=00_AT9nWI4XgCNg6Rv_WB661PmKEbH_iubFRIfKcIYarDSmHw&oe=62AD9D9B&_nc_sid=86f79a" alt="BxaXxWdHVFZ" width="200" /></a>
+	<a href="https://instagram.com/p/BxQNQsNBdNY"><img src="https://instagram.fiev16-2.fna.fbcdn.net/v/t51.2885-15/58410239_352417562075451_8096978710176588544_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fiev16-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=NGFOzgN9mu4AX96nHQc&edm=APU89FABAAAA&ccb=7-5&oh=00_AT8rY2azpetUJXiLNXCffsMMqswVzaDmQ9l5-hon79IRig&oe=62AEACE5&_nc_sid=86f79a" alt="BxQNQsNBdNY" width="200" /></a>
 </p>
 
 ### 📝 Latest photos on my blog [idkan.dev](https://idkan.dev)
 <ul>
-  <li><a href="https://idkan.dev/blog/arrow-functions"><b>Arrow Function</b></a><br><i>Javascript has long incorporated a compact and convenient way of writing functions in Javascript, called the arrow function or thick arrow.</i></li>
+  <li><a href="https://idkan.dev/blog/react-props"><b>React Props</b></a><br><i>Props are one of the most essential concept of React. Read more about them here.</i></li>
+	<li><a href="https://idkan.dev/blog/arrow-functions"><b>Arrow Function</b></a><br><i>Javascript has long incorporated a compact and convenient way of writing functions in Javascript, called the arrow function or thick arrow.</i></li>
 	<li><a href="https://idkan.dev/blog/code-sample"><b>Sample.md file</b></a><br><i>Example of a markdown file with code blocks and syntax highlighting</i></li>
 </ul>
 
