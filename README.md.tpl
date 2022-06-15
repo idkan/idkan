@@ -19,7 +19,7 @@
   %{{latest_instagram_photos}}%
 </p>
 
-### 📝 Latest photos on my blog [idkan.dev](https://idkan.dev)
+### 📝 Latest posts on my blog [idkan.dev](https://idkan.dev)
 <ul>
   %{{latest_articles}}%
 </ul>
