@@ -1,7 +1,7 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://user-images.githubusercontent.com/30185415/169720299-4a168dea-838f-4c55-bbd6-ae61868e7788.png" />
    <h3 align="center">
-       <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" />
+       <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" />
         Hello World! I'm Abraham👨🏻‍💻👀
     </h3>
 </p>
@@ -19,7 +19,7 @@
   %{{latest_instagram_photos}}%
 </p>
 
-### 📝 Latest photos on my blog [idkan.dev](https://idkan.dev)
+### 📝 Latest posts on my blog [idkan.dev](https://idkan.dev)
 <ul>
   %{{latest_articles}}%
 </ul>
@@ -44,5 +44,3 @@
 [![Twitter: Idkandev](https://img.shields.io/twitter/follow/idkandev?style=social)](https://twitter.com/idkandev)
 [![Linkedin Badge](https://img.shields.io/badge/-Abraham_Serena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abraham-serena/)](https://www.linkedin.com/in/abraham-serena/)
 <br />
-
-Have a nice %{{day_name}} !!

@@ -1,7 +1,7 @@
 <p align="center" width="300">
    <img align="center" width="200" src="https://user-images.githubusercontent.com/30185415/169720299-4a168dea-838f-4c55-bbd6-ae61868e7788.png" />
    <h3 align="center">
-       <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" />
+       <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20" />
         Hello World! I'm Abraham👨🏻‍💻👀
     </h3>
 </p>
@@ -16,15 +16,14 @@
 
 ### 📸 My Latest photos on [Instagram](https://instagram.com/idkan.dev)
 <p>
-  <a href="https://instagram.com/p/B3XlbGYHc2f"><img src="https://instagram.fiev16-1.fna.fbcdn.net/v/t51.2885-15/70121810_380270596213715_7037125240200759898_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fiev16-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=7_hhQK1RdBsAX8pdKF3&edm=APU89FABAAAA&ccb=7-5&oh=00_AT9zrFAD6on_HviEBG_XC7oIEDQP6AVx9byFZWhP1mYSoQ&oe=62946AFE&_nc_sid=86f79a" alt="B3XlbGYHc2f" width="200" /></a>
-	<a href="https://instagram.com/p/BxaXxWdHVFZ"><img src="https://instagram.fiev16-1.fna.fbcdn.net/v/t51.2885-15/58453858_1989745561131910_7682376490113199718_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fiev16-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=lxHg0hSD4k0AX8uKoI2&edm=APU89FABAAAA&ccb=7-5&oh=00_AT_m64bKqwPfrxTDq1hOoQknDrue9PjffPg5z0Vf0KaYdw&oe=6293E85B&_nc_sid=86f79a" alt="BxaXxWdHVFZ" width="200" /></a>
-	<a href="https://instagram.com/p/BxQNQsNBdNY"><img src="https://instagram.fiev16-2.fna.fbcdn.net/v/t51.2885-15/58410239_352417562075451_8096978710176588544_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fiev16-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=DN-Cdc5UTaYAX8TvdqP&edm=APU89FABAAAA&ccb=7-5&oh=00_AT-7ERc-cAs9FoZFOf-5RpCc2X4NeHehgK3Pp0xuSWg8qQ&oe=6294F7A5&_nc_sid=86f79a" alt="BxQNQsNBdNY" width="200" /></a>
+  
 </p>
 
-### 📝 Latest photos on my blog [idkan.dev](https://idkan.dev)
+### 📝 Latest posts on my blog [idkan.dev](https://idkan.dev)
 <ul>
-  <li><a href="https://idkan.dev/blog/arrow-functions"><b>Arrow Function</b></a><br><i>Javascript has long incorporated a compact and convenient way of writing functions in Javascript, called the arrow function or thick arrow.</i></li>
-	<li><a href="https://idkan.dev/blog/code-sample"><b>Sample.md file</b></a><br><i>Example of a markdown file with code blocks and syntax highlighting</i></li>
+  <li><a href="https://idkan.dev/blog/clean-functions"><b>Clean Functions</b></a><br><i>Here are some tips regarding clean functions. There are more to into clean functions but these are some basics that I could fit into this post.</i></li>
+	<li><a href="https://idkan.dev/blog/react-props"><b>React Props</b></a><br><i>Props are one of the most essential concept of React. Read more about them here.</i></li>
+	<li><a href="https://idkan.dev/blog/arrow-functions"><b>Arrow Function</b></a><br><i>Javascript has long incorporated a compact and convenient way of writing functions in Javascript, called the arrow function or thick arrow.</i></li>
 </ul>
 
 ### 🧰 Languages and Tools:
