@@ -1,4 +1,4 @@
-import {} from 'dotenv/config'
+import { } from 'dotenv/config'
 import { promises as fs } from 'fs'
 import fetch from 'node-fetch'
 import Parser from 'rss-parser'
@@ -10,7 +10,8 @@ const MAX_NUMBER_OF = {
 
 const PLACEHOLDER = {
   LATEST_ARTICLES: '%{{latest_articles}}%',
-  LATEST_INSTAGRAM_PHOTOS: '%{{latest_instagram_photos}}%'
+  LATEST_INSTAGRAM_PHOTOS: '%{{latest_instagram_photos}}%',
+  DAY_NAME: '%{{day_name}}'
 }
 
 const INSTAGRAM_USER_ID = '245376239'
@@ -32,6 +33,11 @@ const getLatestInstagramPhotos = async () => {
   const data = await response.json()
 
   return data?.edges
+}
+
+const getCurrentDayName = () => {
+  const date = new Date()
+  return date.toLocaleDateString('en-US', { weekday: 'long' })
 }
 
 ;(async () => {
@@ -57,6 +63,7 @@ const getLatestInstagramPhotos = async () => {
   const newTemplate = template
     .replace(PLACEHOLDER.LATEST_ARTICLES, latestArticles)
     .replace(PLACEHOLDER.LATEST_INSTAGRAM_PHOTOS, latestInstagramPhotos)
+    .replace(PLACEHOLDER.DAY_NAME, getCurrentDayName())
 
   await fs.writeFile('./README.md', newTemplate, { encoding: 'utf8' })
 })()
