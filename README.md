@@ -15,7 +15,7 @@
 ##
 
 ### 📸 My Latest photos on [Instagram](https://instagram.com/idkan.dev)
-<p>
+<p align="center">
   <i>🚧 UPS, no photos found 😥 🚧</i>
 </p>
 
@@ -47,4 +47,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Abraham_Serena-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abraham-serena/)](https://www.linkedin.com/in/abraham-serena/)
 <br />
 
-📅 Have a nice Tuesday !!
+<p align="center">
+  <i>📅 Have a nice Wednesday !!</i>
+</p>
