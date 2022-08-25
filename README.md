@@ -48,5 +48,5 @@
 <br />
 
 <p align="center">
-  <i>📅 Have a nice Wednesday !!</i>
+  <i>📅 Have a nice Thursday !!</i>
 </p>
