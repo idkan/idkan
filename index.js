@@ -53,7 +53,7 @@ const getCurrentDayName = () => {
     contentSnippet
   }) => `<li><a href="${link}"><b>${title}</b></a><br><i>${contentSnippet}</i></li>`).join('\n\t')
 
-  const latestInstagramPhotos = instagramPosts.length !== 0
+  const latestInstagramPhotos = instagramPosts?.length !== 0
     ? instagramPosts?.slice(0, MAX_NUMBER_OF.PHOTOS).map(({
         node: {
           display_url: url,
