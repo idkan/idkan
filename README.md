@@ -16,7 +16,7 @@
 
 ### 📸 My Latest photos on [Instagram](https://instagram.com/idkan.dev)
 <p align="center">
-  <i>🚧 UPS, no photos found 😥 🚧</i>
+  undefined
 </p>
 
 ### 📝 Latest posts on my blog [idkan.dev](https://idkan.dev)
@@ -48,5 +48,5 @@
 <br />
 
 <p align="center">
-  <i>📅 Have a nice Wednesday !!</i>
+  <i>📅 Have a nice Thursday !!</i>
 </p>
