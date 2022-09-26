@@ -6,11 +6,9 @@
     </h3>
 </p>
 
-<p align="center">
-- ⛳️ I’m currently working on my Banking APP 🏦🚧
+- ⛳️ I’m currently working on my Banking APP 🏦 🚧
 - 🌱 I’m currently mastering JS and Java ⚡️ ☕️
 - 📗 Pronouns: He/Him 🤵🏻
-</p>
 
 ##
 
