@@ -14,9 +14,7 @@
 
 ### 📸 My Latest photos on [Instagram](https://instagram.com/idkan.dev)
 <p align="center">
-  <a href="https://instagram.com/p/B3XlbGYHc2f"><img src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/70121810_380270596213715_7037125240200759898_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=111&_nc_ohc=36YK8pP-tSMAX_wAxSB&edm=APU89FABAAAA&ccb=7-5&oh=00_AT8EzA6dbCsJxFzKLGXThmIWJ6T1Rwj-ZGGProLvUsvhPw&oe=634C543E&_nc_sid=86f79a" alt="B3XlbGYHc2f" width="200" /></a>
-	<a href="https://instagram.com/p/BxaXxWdHVFZ"><img src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/58453858_1989745561131910_7682376490113199718_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=-lJVfDD8A-4AX83MgD_&edm=APU89FABAAAA&ccb=7-5&oh=00_AT-J1C-lwYJ3yC88BOK8uOg6DGq-o_L6qPKlprXDqcwYrQ&oe=634BD19B&_nc_sid=86f79a" alt="BxaXxWdHVFZ" width="200" /></a>
-	<a href="https://instagram.com/p/BxQNQsNBdNY"><img src="https://instagram.fclj4-1.fna.fbcdn.net/v/t51.2885-15/58410239_352417562075451_8096978710176588544_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fclj4-1.fna.fbcdn.net&_nc_cat=103&_nc_ohc=fkNyuw04xsEAX8rxMAm&edm=APU89FABAAAA&ccb=7-5&oh=00_AT8NdE9v55ps8p0kJxH7bsQkik85goU-GghoYc1ik5D09g&oe=634AE6A5&_nc_sid=86f79a" alt="BxQNQsNBdNY" width="200" /></a>
+  <i>🚧 UPS, no photos found 😥 🚧</i>
 </p>
 
 ### 📝 Latest posts on my blog [idkan.dev](https://idkan.dev)
