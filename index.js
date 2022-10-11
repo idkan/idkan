@@ -64,7 +64,7 @@ const getCurrentDayName = () => {
 
   const newTemplate = template
     .replace(PLACEHOLDER.LATEST_ARTICLES, latestArticles)
-    .replace(PLACEHOLDER.LATEST_INSTAGRAM_PHOTOS, latestInstagramPhotos)
+    .replace(PLACEHOLDER.LATEST_INSTAGRAM_PHOTOS, latestInstagramPhotos || '<i>🚧 UPS, no photos found 😥 🚧</i>')
     .replace(PLACEHOLDER.DAY_NAME, getCurrentDayName())
 
   await fs.writeFile('./README.md', newTemplate, { encoding: 'utf8' })
