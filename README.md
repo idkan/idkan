@@ -19,9 +19,9 @@
 
 ### 📝 Latest posts on my blog [idkan.dev](https://idkan.dev)
 <ul>
-  <li><a href="https://idkan.dev/blog/are-you-sabotaging-yourself"><b>Are you sabotaging your own success?</b></a><br><i>Are you sabotaging your own success? Imposter syndrome, perfectionism, and other self-sabotaging behaviors can hold you back from achieving your goals. Learn how to overcome them.</i></li>
+  <li><a href="https://idkan.dev/blog/the-rise-of-machine-learning"><b>The Rise of Machine Learning: How to Use It to Build Smarter Applications</b></a><br><i>Machine Learning is becoming an essential tool for web development, allowing developers to create smarter and more personalized web applications.</i></li>
+	<li><a href="https://idkan.dev/blog/are-you-sabotaging-yourself"><b>Are you sabotaging your own success?</b></a><br><i>Are you sabotaging your own success? Imposter syndrome, perfectionism, and other self-sabotaging behaviors can hold you back from achieving your goals. Learn how to overcome them.</i></li>
 	<li><a href="https://idkan.dev/blog/what-else-do-i-have-to-do"><b>What else do I have to do?</b></a><br><i>Knowing how to code is not enough in the modern world. You need to be able to communicate, manage, and lead. Here are some tips on how to do that.</i></li>
-	<li><a href="https://idkan.dev/blog/clean-functions"><b>Clean Functions</b></a><br><i>Here are some tips regarding clean functions. There are more to into clean functions but these are some basics that I could fit into this post.</i></li>
 </ul>
 
 ### 🧰 Languages and Tools:
