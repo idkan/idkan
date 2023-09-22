@@ -14,7 +14,7 @@
 
 ### 📸 My Latest photos on [Instagram](https://instagram.com/idkan.dev)
 <p align="center">
-  <a href="https://instagram.com/p/BxQNQsNBdNY"><img src="https://instagram.flhr9-1.fna.fbcdn.net/v/t51.2885-15/59651612_2335177836767527_2178752904217639050_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.flhr9-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=aSyPDH6sMBUAX8SdlWO&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDvQ1XM82mcW_NX3TQKGQxhvN0MTTp_EaP8Be4lUt532Q&oe=65129A40&_nc_sid=bc0c2c" alt="BxQNQsNBdNY" width="200" /></a>
+  <a href="https://instagram.com/p/BxQNQsNBdNY"><img src="https://instagram.flba2-1.fna.fbcdn.net/v/t51.2885-15/59651612_2335177836767527_2178752904217639050_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.flba2-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=aSyPDH6sMBUAX8HVggo&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBy87twCqeHfizNiuoNxtvztgB75t5e9u570814YfXPnQ&oe=65129A40&_nc_sid=bc0c2c" alt="BxQNQsNBdNY" width="200" /></a>
 </p>
 
 ### 📝 Latest posts on my blog [idkan.dev](https://idkan.dev)
