@@ -14,7 +14,7 @@
 
 ### 📸 My Latest photos on [Instagram](https://instagram.com/idkan.dev)
 <p align="center">
-  <a href="https://instagram.com/p/BxQNQsNBdNY"><img src="https://scontent-mia3-2.cdninstagram.com/v/t51.2885-15/59651612_2335177836767527_2178752904217639050_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=scontent-mia3-2.cdninstagram.com&_nc_cat=107&_nc_ohc=ABPDBEJoTJEAX9eeX69&edm=APU89FABAAAA&ccb=7-5&oh=00_AfBzxReIVRY_NsCIMCleDs7cLACC8eyFOEWcIQuna1sX6Q&oe=651A8340&_nc_sid=bc0c2c" alt="BxQNQsNBdNY" width="200" /></a>
+  <a href="https://instagram.com/p/BxQNQsNBdNY"><img src="https://instagram.flhr13-1.fna.fbcdn.net/v/t51.2885-15/59651612_2335177836767527_2178752904217639050_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.flhr13-1.fna.fbcdn.net&_nc_cat=107&_nc_ohc=p9xqU5MXKQwAX_996ns&edm=APU89FABAAAA&ccb=7-5&oh=00_AfDU0h4wOVYw0a_LKelf8TNCpvVv-WJ-n_YfjCMKI1YT1w&oe=651A8340&_nc_sid=bc0c2c" alt="BxQNQsNBdNY" width="200" /></a>
 </p>
 
 ### 📝 Latest posts on my blog [idkan.dev](https://idkan.dev)
@@ -46,5 +46,5 @@
 <br />
 
 <p align="center">
-  <i>📅 Have a nice Thursday !!</i>
+  <i>📅 Have a nice Friday !!</i>
 </p>
